@@ -1,14 +1,14 @@
 # Tribe Framework
 
-Tribe is our collaborative tech framework designed for rapid, scalable development, architected to handle millions of users from launch.
+Tribe is a collaborative framework designed for rapid, scalable web development. It is designed to handle millions of users from launch.
 
 ## How It Works
 
-Tribe framework consists of three core components working together:
+Tribe consists of three core components working together:
 
 35 Integrated Repositories - Our complete development ecosystem, available at https://github.com/tribe-framework. Each repository serves a specific function, from UI components to deployment tools, all designed to work seamlessly together.
 
-Junction - Our no-code backend service, developed by us and refined over 7+ years. This PHP-based platform automatically deploys as independent Docker containers, handling everything from database management to API generation without manual configuration. The cloud version of Junction can be accessed from https://junction.express and the open source version from https://github.com/tribe-framework/junction.
+Junction - Our no-code backend service, developed and refined over 7+ years. This PHP-based platform automatically deploys as independent Docker containers, handling everything from database management to API generation without manual configuration. The cloud version of Junction can be accessed from https://junction.express and the open source version from https://github.com/tribe-framework/junction.
 
 Ember - Our frontend stack of choice, that we integrate with Tribe to create complete web applications. We also provide native wrappers for iOS, Android, and desktop deployment. To learn more about EmberJS visit https://emberjs.com. To use Tribe within Ember head to https://www.npmjs.com/package/ember-tribe.
 
